@@ -7,7 +7,7 @@
 <body>
 <div class="container">
 <h1 class="text-center">Sending Emails in PHP from localhost with SMTP</h1>
-<h2 class="text-center">Part 3: Using PHPMailer with attachments</h2>
+<h2 class="text-center">Using PHPMailer with attachments</h2>
 <hr>
 	<?php 
 		if(isset($_POST['sendmail'])) {
